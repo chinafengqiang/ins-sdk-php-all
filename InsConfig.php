@@ -10,10 +10,10 @@ class InsConfig{
 	private $serverUrl = "https://api.inspay.jp";
 
 	//开放平台key
-	private $appKey = "areaText";
+	private $appKey = "你的appKey";
 
 	//私钥
-	private $secret = "3xBxtQ2CykwI4flzT9errEx5RAzleSWA";
+	private $secret = "你的secret";
 
 	//报文格式，推荐：json
 	private $format = "json";
